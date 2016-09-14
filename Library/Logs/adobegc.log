@@ -1,0 +1,23 @@
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | __OOBELIB_LOG_FILE__
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Dispatch table loaded from path: /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app/..//dispatchtable.xml 
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | (re)load Local Dispatch Table status-[0].
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Scope : [2]
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Setting scope to GM
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | EndPoint requested: [FetchRules]
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Length of the URL: [50]
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Returning from getEndpointAddr: [0]
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | EndPoint requested: [FetchRules]
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Length of the URL: [50]
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | URL found [https://genuine.adobe.com/server/services/rules/v1]
+09/07/16 09:20:59:888 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Returning from getEndpointAddr: [0]
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Dispatch table loaded from path: /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app/..//dispatchtable.xml 
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | (re)load Local Dispatch Table status-[0].
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Scope : [2]
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Setting scope to GM
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | EndPoint requested: [PostRulesData]
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Length of the URL: [50]
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Returning from getEndpointAddr: [0]
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | EndPoint requested: [PostRulesData]
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Length of the URL: [50]
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | URL found [https://genuine.adobe.com/server/services/check/v1]
+09/07/16 09:21:14:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 84156 | Returning from getEndpointAddr: [0]

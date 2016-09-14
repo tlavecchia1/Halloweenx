@@ -1,0 +1,13 @@
+cd testApp16
+ls
+cd NetBeansProjects
+git init
+git remote add origin <https://github.com/tlavecchia1/testApp16.git>
+Git remote add origin https://github.com/tlavecchia1/testApp16.git
+Git push origin master
+ls
+Git add --all
+Git push origin master
+git add --all
+git commit -m"addfiles"
+ping 10.31.15.51 -t

@@ -1,0 +1,30 @@
+2016/09/14-09:27:35.248 59907 Reusing MANIFEST /Users/tlavecchia/Library/Application Support/Google/Chrome/Default/Session Storage/MANIFEST-000001
+2016/09/14-09:27:35.249 59907 Recovering log #76
+2016/09/14-09:27:35.249 59907 Reusing old log /Users/tlavecchia/Library/Application Support/Google/Chrome/Default/Session Storage/000076.log 
+2016/09/14-09:28:56.079 88131 Level-0 table #80: started
+2016/09/14-09:28:56.080 88131 Level-0 table #80: 105578 bytes OK
+2016/09/14-09:28:56.080 88131 Delete type=0 #76
+2016/09/14-09:29:56.084 88131 Level-0 table #82: started
+2016/09/14-09:29:56.085 88131 Level-0 table #82: 90548 bytes OK
+2016/09/14-09:29:56.085 88131 Delete type=0 #79
+2016/09/14-09:41:00.298 88131 Level-0 table #84: started
+2016/09/14-09:41:00.300 88131 Level-0 table #84: 29932 bytes OK
+2016/09/14-09:41:00.301 88131 Delete type=0 #81
+2016/09/14-09:41:00.301 88131 Compacting 4@0 + 1@1 files
+2016/09/14-09:41:00.305 88131 Generated table #85@0: 1473 keys, 235223 bytes
+2016/09/14-09:41:00.305 88131 Compacted 4@0 + 1@1 files => 235223 bytes
+2016/09/14-09:41:00.306 88131 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/09/14-09:41:00.306 88131 Delete type=2 #75
+2016/09/14-09:41:00.306 88131 Delete type=2 #77
+2016/09/14-09:41:00.306 88131 Delete type=2 #80
+2016/09/14-09:41:00.306 88131 Delete type=2 #82
+2016/09/14-09:41:00.306 88131 Delete type=2 #84
+2016/09/14-09:44:47.079 88131 Level-0 table #87: started
+2016/09/14-09:44:47.082 88131 Level-0 table #87: 79609 bytes OK
+2016/09/14-09:44:47.082 88131 Delete type=0 #83
+2016/09/14-09:45:45.763 88131 Level-0 table #89: started
+2016/09/14-09:45:45.765 88131 Level-0 table #89: 26597 bytes OK
+2016/09/14-09:45:45.765 88131 Delete type=0 #86
+2016/09/14-09:52:11.432 88131 Level-0 table #91: started
+2016/09/14-09:52:11.435 88131 Level-0 table #91: 68303 bytes OK
+2016/09/14-09:52:11.435 88131 Delete type=0 #88

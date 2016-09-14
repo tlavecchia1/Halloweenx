@@ -1,0 +1,1402 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en-gb"  class="frontpage">
+<head>
+		        	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0">
+	      <base href="https://www.murach.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Mike Murach, programming books, web books, website programming books, html5, jQuery, JavaScript, PHP, SQL, Java, C#, Visual Basic, ASP.NET, Android, mobile development books, database, mainframe" />
+  <meta name="title" content="Home" />
+  <meta property="og:url" content="https://www.murach.com/" />
+  <meta property="og:title" content="Murach Books - Programming books for website development, HTML5, jQuery, JavaScript, PHP, SQL, Java, C#, Visual Basic, Android" />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="Murach Books, publisher of professional programming books since 1974: web development, HTML5, jQuery, JavaScript, Java, Android, PHP, SQL, MySQL, C#, Visual Basic, and Mainframe" />
+  <meta name="description" content="Murach Books, publisher of professional programming books since 1974: web development, HTML5, jQuery, JavaScript, Java, Android, PHP, SQL, MySQL, C#, Visual Basic, and Mainframe" />
+  <title>Murach Books - Programming books for website development, HTML5, jQuery, JavaScript, PHP, SQL, Java, C#, Visual Basic, Android</title>
+  <link href="https://www.murach.com/templates/murach/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="/templates/murach/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="/component/fpss/module/669?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="Frontpage Slideshow (by JoomlaWorks) RSS Feed" />
+  <link href="/component/fpss/module/669?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Frontpage Slideshow (by JoomlaWorks) Atom Feed" />
+  <link href="https://www.murach.com/component/search/?format=opensearch" rel="search" title="Search Murach Books" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/murach/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_rsform/assets/calendar/calendar.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_rsform/assets/css/front.css" type="text/css" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-4088f8ab.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/normalize.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/system/system.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/menu/menu.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/gk.stuff.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/vm.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/style1.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/typography/typography.style1.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/facebox.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_fpss/tmpl/Simple/css/template.css.php?width=1041&amp;height=413&amp;sidebarWidth=240&amp;timer=0&amp;thumbnailViewportWidth=65&amp;thumbnailViewportHeight=40&amp;mid=669" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_cinch_menu/tmpl/css/accordion.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_cinch_menu/tmpl/css/flyout.css" type="text/css" />
+  <style type="text/css">
+.childcontent .gkcol { width: 220px; }@media screen and (max-width: 750px) {
+	    	#k2Container .itemsContainer { width: 100%!important; } 
+	    	.cols-2 .column-1,
+	    	.cols-2 .column-2,
+	    	.cols-3 .column-1,
+	    	.cols-3 .column-2,
+	    	.cols-3 .column-3,
+	    	.demo-typo-col2,
+	    	.demo-typo-col3,
+	    	.demo-typo-col4 {width: 100%; }
+	    	}#gkSidebar { width: 25%; }
+#gkContentWrap { width: 75%; }
+.gkPage { max-width: 1041px; }
+#menu776 > div,
+#menu776 > div > .childcontent-inner { width: 220px; }
+#menu787 > div,
+#menu787 > div > .childcontent-inner { width: 220px; }
+#menu796 > div,
+#menu796 > div > .childcontent-inner { width: 220px; }
+#menu809 > div,
+#menu809 > div > .childcontent-inner { width: 220px; }
+#menu797 > div,
+#menu797 > div > .childcontent-inner { width: 220px; }
+    ul.accordion-menu, ul.accordion-menu li {list-style: none !important; padding:0px !important; margin: 0px !important; }
+    #accordion_menu_686{	text-align: left; border-right:1px solid #1a1a1a;border-left:1px solid #1a1a1a;margin:-1px 0px; background: #4d032c;overflow:hidden;}
+    #accordion_menu_686 a{color: #FFFFFF;float: left;}
+    #accordion_menu_686 li:last-child,#accordion_menu_686 > li.last{border-bottom: 0px;}
+    #accordion_menu_686 li{cursor: pointer;border-top: 1px solid #1A1A1A;}
+    #accordion_menu_686 li.opened > .item-wrapper{border-top: 1px solid #1A1A1A;margin-top:-1px;}
+    #accordion_menu_686 .item-wrapper:hover a, #accordion_menu_686 li.current > .item-wrapper a{color: #e0d7c2;}
+    #accordion_menu_686 > li > .item-wrapper{text-align: left;}
+    #accordion_menu_686 li .item-wrapper .menu-button{float:right;}
+    #accordion_menu_686 li .item-wrapper .menu-link{float: left;padding-left:5px;}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  
+  <script src="/components/com_k2/js/k2.js?v2.6.7&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/components/com_rsform/assets/js/script.js" type="text/javascript"></script>
+  
+  <script src="/cache/widgetkit/widgetkit-7e893282.js" type="text/javascript"></script>
+  <script src="https://www.murach.com/templates/murach/js/waypoints.min.js" type="text/javascript"></script>
+  <script src="https://www.murach.com/templates/murach/js/gk.scripts.js" type="text/javascript"></script>
+  <script src="https://www.murach.com/templates/murach/js/gk.menu.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmsite.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/facebox.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmprices.js" type="text/javascript"></script>
+  
+  <script src="/modules/mod_fpss/includes/js/jquery.fpss.js" type="text/javascript"></script>
+  
+  
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});jQuery.noConflict();window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+ $GKMenu = { height:true, width:true, duration: 250 };
+$GK_TMPL_URL = "https://www.murach.com/templates/murach";
+
+$GK_URL = "https://www.murach.com/";
+
+//<![CDATA[
+jQuery(document).ready(function() {
+		jQuery('#VMmenu14_10609 li.VmClose ul').hide();
+		jQuery('#VMmenu14_10609 li .VmArrowdown').click(
+		function() {
+
+			if (jQuery(this).parent().next('ul').is(':hidden')) {
+				jQuery('#VMmenu14_10609 ul:visible').delay(500).slideUp(500,'linear').parents('li').addClass('VmClose').removeClass('VmOpen');
+				jQuery(this).parent().next('ul').slideDown(500,'linear');
+				jQuery(this).parents('li').addClass('VmOpen').removeClass('VmClose');
+			}
+		});
+	});
+//]]>
+//<![CDATA[ 
+vmSiteurl = 'https://www.murach.com/' ;
+vmLang = "";
+Virtuemart.addtocart_popup = '1' ; 
+vmCartText = '%2$s x %1$s was added to your cart.' ;
+vmCartError = 'There was an error while updating your cart.' ;
+loadingImage = '/components/com_virtuemart/assets/images/facebox/loading.gif' ;
+closeImage = '/components/com_virtuemart/assets/images/fancybox/fancy_close.png' ; 
+usefancy = false;
+//]]>
+
+		
+		$FPSS(document).ready(function(){
+			$FPSS('#fpssContainer669').fpss( {
+				autoStart: 1,
+				transitionTime: 1000,
+				interval: 15000,
+				timer: 0,
+				effect: 'crossfade',
+				event: 'click',
+				textEffect: 0,
+				lavalamp: 0,
+				playLabel: 'Play',
+				pauseLabel: 'Pause'
+			});
+		});
+		
+  </script>
+  <link rel="apple-touch-icon" href="https://www.murach.com/templates/murach/images/touch-device.png">
+  <link rel="apple-touch-icon-precompose" href="https://www.murach.com/templates/murach/images/touch-device.png">
+
+    <link rel="stylesheet" href="https://www.murach.com/templates/murach/css/small.desktop.css" media="(max-width: 1141px)" />
+<link rel="stylesheet" href="https://www.murach.com/templates/murach/css/tablet.css" media="(max-width: 1000px)" />
+<link rel="stylesheet" href="https://www.murach.com/templates/murach/css/small.tablet.css" media="(max-width: 820px)" />
+<link rel="stylesheet" href="https://www.murach.com/templates/murach/css/mobile.css" media="(max-width: 580px)" />
+
+<!--[if IE 9]>
+<link rel="stylesheet" href="https://www.murach.com/templates/murach/css/ie/ie9.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="https://www.murach.com/templates/murach/css/ie/ie8.css" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="https://www.murach.com/templates/murach/css/ie/ie7.css" type="text/css" />
+<![endif]-->
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="https://www.murach.com/templates/murach/js/respond.js"></script>
+<script type="text/javascript" src="https://www.murach.com/templates/murach/js/selectivizr.js"></script>
+<![endif]-->	 	<script type="text/javascript">
+    jQuery(document).ready(function() {
+		jQuery("#gkMobileMenu").click(function(){
+			jQuery("#gkAccordion").slideToggle("slow");
+		});
+		jQuery("#mobileSearch").click(function(){
+			jQuery("#gkTopMenu").slideToggle("slow");
+		});
+		jQuery("#gkTop1 div.customwidget > div").hover(function(){
+			jQuery(this).find("div").animate({
+				top: "0%"
+			});
+		},function() {
+			jQuery(this).find("div").animate({
+				top: "100%"
+			});	
+		});
+		
+		jQuery("#custom-accordion h3.toggle").toggle(function(){
+			jQuery(this).next().slideDown();
+			jQuery(this).addClass("on");
+		},function() {
+			jQuery(this).next().slideUp();
+			jQuery(this).removeClass("on");
+		});
+		
+		jQuery("div.divider div.more").toggle(function(){
+			jQuery(this).parent().find("p.hide").slideDown();
+			jQuery(this).find("a").html("LESS");
+			jQuery(this).addClass("less");
+		},function() {
+			jQuery(this).parent().find("p.hide").slideUp();
+			jQuery(this).find("a").html("MORE");
+			jQuery(this).removeClass("less");
+		});
+		
+		jQuery('#gkPageContent').waypoint(function(direction) {
+			if(direction === 'down'){jQuery("#gkFooterNav .customtop").fadeIn();}
+			else{jQuery("#gkFooterNav .customtop").fadeOut();}
+		});
+		
+		
+		
+		var emailcookie = getCookie("email");
+		//alert(emailcookie);
+		jQuery('div.product-downloads a').click(function(e) {
+			//var thisclass = jQuery(this).attr("class");
+			//var addressValue = jQuery(this).attr("href");
+			//var isLocal = (addressValue.substring(0,4) === "http") ? regExp.test(addressValue) : true;
+			if(emailcookie != "") {
+				//alert('local' + addressValue);
+			} else {
+				jQuery(this).attr("href","/register-for-downloads?return=https://www.murach.com/");
+				jQuery(this).attr('target','_self');
+				//e.preventDefault();
+				//alert('external' + addressValue);
+			}
+			
+		});
+		
+		jQuery('.errorclose').click(function(e) {
+			jQuery('#system-message').fadeOut(500);
+		});
+		jQuery('.errorignore').click(function(e) {
+			jQuery.cookie('errorignore', 'yes');
+			jQuery('#system-message').fadeOut(500);
+		});
+		
+		var errorignore = jQuery.cookie('errorignore');
+		if(errorignore == 'yes'){
+			jQuery('#system-message').fadeOut(0);
+		} else {
+			jQuery('#system-message').fadeIn(500);
+		}
+		
+		
+    });	
+	function getCookie(cname) {
+		var name = cname + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0; i<ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1);
+			if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+		}
+		return "";
+	} 
+    </script>
+    <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/bbdfcc74-c42c-406e-b049-957ab7e186f4.css"/>
+<script type="text/javascript">var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-59125318-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+          </script></head>
+<body class="frontpage" data-tablet-width="1000" data-mobile-width="580">	
+		
+	
+    
+    	<div id="gkToptab">
+		<div class="gkPage">
+		
+
+<div class="custom"  >
+
+	<div class="active"><p class="murach"><a href="https://www.murach.com">Murach Books </a></p></div>
+<p class="instructors"><a href="http://www.murachforinstructors.com">Murach For Instructors</a></p>	
+</div>
+
+		</div>
+    </div>
+	
+    <div id="gkMainWrap">
+    	<div id="gkHeaderNav"> 
+        	<div class="gkPage">                   	
+		    
+
+
+
+<h2>
+          <a href="https://www.murach.com/" id="gkLogo">
+        <img src="https://www.murach.com/images/logo.jpg" alt="Murach Books" />
+     </a>
+     </h2>
+
+
+
+
+
+            
+                        
+                        <div id="gkAccount">
+                <div class="vmCartModule ">
+                              <div class="show_cart"> <a href="/shop/cart">My Cart</a> (0)</div>
+          <noscript>
+          Please wait          </noscript>
+</div>
+
+                <div class="custom">
+                    <div class="container">
+                                        	<p><a href="/account">My Account</a></p>
+                                        </div>	
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+                        
+            <div class="clr"></div>
+            
+            <div id="mobileSearch">
+            	<i class="icon-search"></i>
+            </div>
+
+	    			    <div id="gkMobileMenu">
+		    	<i class="icon-reorder"></i>
+		    	<!--<select onChange="window.location.href=this.value;">
+                <option value="/">Home</option>
+		    			    	</select>-->
+		    </div>
+
+            <div id="gkAccordion">
+            	<ul id="accordion_menu_712" class="accordion-menu" style="margin:0px;">
+					<li class="first">
+                        <div class="item-wrapper">
+                            <div class="menu-link"><a href="/">Home</a></div>
+                        </div>
+                    </li>
+                </ul>
+		    	
+<script type="text/javascript">
+var onProcess = false;
+jQuery(document).ready(function($){
+	var acMenu = $("#accordion_menu_686");
+	acMenu.children("li").eq(0).addClass("first");
+	acMenu.children("li").eq(acMenu.children("li").length - 1 ).addClass("last");
+	
+	acMenu.find("a").click(function(){
+		if ($(this).attr("target") == '_blank') {
+			window.open($(this).attr("href"));
+		} else {
+			location = $(this).attr("href");
+		}		
+		return false;
+	});
+	
+	try{
+		var current = $("#accordion_menu_686 li.opened");
+		var root = current.parents('.accordion-menu'), lis = current.parents('li');
+		$('li', root).filter(lis).addClass('opened');
+	} catch(e){
+		console.log(e.message);
+	}
+//	if(current.length != 0){
+//		while(!current.parent().hasClass("accordion-menu")){
+//			if(current.parent().prop("li")){
+//				current.parent().addClass("opened");
+//			}
+//			current = current.parent();	
+//		}
+//	}
+	$("#accordion_menu_686 li.opened > .ul-wrapper").css("display","block");
+	$("#accordion_menu_686 li.opened > .item-wrapper  .menu-button img").attr("src", "https://www.murach.com/modules/mod_cinch_menu/tmpl/images/minus.png");
+ 
+acMenu.find(".item-wrapper").click(function(){
+	var li = $(this).parent();
+	if(!li.hasClass("opened")){
+		var openedLi = li.parent().children(".opened");
+		var ul = li.children(".ul-wrapper");
+		openedLi.children(".ul-wrapper").slideUp(300);
+		openedLi.children(".item-wrapper").children(".menu-button").children("img").attr("src", "https://www.murach.com/modules/mod_cinch_menu/tmpl/images/plus.png");
+		openedLi.removeClass("opened");
+		if(li.children(".ul-wrapper").length !=0){
+			li.addClass("opened");
+			li.children(".item-wrapper").children(".menu-button").children("img").attr("src", "https://www.murach.com/modules/mod_cinch_menu/tmpl/images/minus.png");
+			ul.slideDown(300);
+		}
+}	else{
+		li.children(".item-wrapper").children(".menu-button").children("img").attr("src", "https://www.murach.com/modules/mod_cinch_menu/tmpl/images/plus.png");
+		li.children(".ul-wrapper").slideUp(300);
+		li.removeClass("opened");
+	}
+	return false;
+});
+});
+</script>
+				     <ul class='accordion-menu' id='accordion_menu_686'>
+			<li ><div class='item-wrapper' ><div class='menu-button' ><img class='menuicon' alt='' src='https://www.murach.com/modules/mod_cinch_menu/tmpl/images/plus.png'/></div><div class='menu-link' ><a  href='/shop-books/all'>Shop Books</a></div></div><div class='ul-wrapper'><ul><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/all'>View All</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/web-design-books'>Web Design Books</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/web-development-books'>Web Development Books</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/mobile-development-books'>Mobile Development Books</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/database-programming-books'>Database Programming Books</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/java-programming-books'>Java Programming Books</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/c-programming-books'>C# Programming Books</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/visual-basic-programming-books'>Visual Basic Programming Books</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/mainframe-programming-books'>Mainframe Programming Books</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/shop-books/previous-editions'>Previous Editions</a></div></div></li></ul></div></li><li ><div class='item-wrapper' ><div class='menu-button' ><img class='menuicon' alt='' src='https://www.murach.com/modules/mod_cinch_menu/tmpl/images/plus.png'/></div><div class='menu-link' ><a  href='/about-our-ebooks/ebooks-overview'>About Our eBooks</a></div></div><div class='ul-wrapper'><ul><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-our-ebooks/ebooks-overview'>eBooks Overview</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-our-ebooks/k2-information/how-to-install-and-activate-a-locklizard-viewer'>How to install and activate a LockLizard Viewer</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-our-ebooks/how-to-use-the-locklizard-viewers'>How to use the LockLizard Viewers</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-our-ebooks/troubleshooting-and-getting-help'>Troubleshooting and getting help</a></div></div></li></ul></div></li><li ><div class='item-wrapper' ><div class='menu-button' ><img class='menuicon' alt='' src='https://www.murach.com/modules/mod_cinch_menu/tmpl/images/plus.png'/></div><div class='menu-link' ><a  href='/customer-service/customer-service-overview'>Customer Service</a></div></div><div class='ul-wrapper'><ul><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/customer-service/customer-service-overview'>Customer Service Overview</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/customer-service/return-policy-for-print-books-and-ebooks'>Return Policy for Print Books and eBooks</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/customer-service/join-our-email-list'>Join Our Email List</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/customer-service/our-international-distributors'>Our International Distributors</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/customer-service/how-to-place-an-international-order'>How to Place an International Order</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/customer-service/meet-our-customer-service-staff'>Meet Our Customer Service Staff</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/customer-service/contact-us'>Contact Us</a></div></div></li></ul></div></li><li ><div class='item-wrapper' ><div class='menu-button' ><img class='menuicon' alt='' src='https://www.murach.com/modules/mod_cinch_menu/tmpl/images/plus.png'/></div><div class='menu-link' ><a  href='/courseware-for-trainers/overview'>Courseware for Trainers</a></div></div><div class='ul-wrapper'><ul><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/courseware-for-trainers/overview'>Courseware for Trainers Overview</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/courseware-for-trainers/3-ways-to-use-our-books-for-training'>3 Ways to Use Our Books for Training </a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/courseware-for-trainers/what-our-courseware-includes'>What Our Courseware Includes</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/courseware-for-trainers/how-to-prepare-for-a-course'>How to Prepare for a Course</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/courseware-for-trainers/how-to-order-our-books-and-courseware'>How to Order Our Books and Courseware</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/courseware-for-trainers/what-managers-and-trainers-say-about-us'>What Managers and Trainers Say About Us</a></div></div></li></ul></div></li><li ><div class='item-wrapper' ><div class='menu-button' ><img class='menuicon' alt='' src='https://www.murach.com/modules/mod_cinch_menu/tmpl/images/plus.png'/></div><div class='menu-link' ><a  href='/about-us/about-us-overview'>About Us</a></div></div><div class='ul-wrapper'><ul><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-us/about-us-overview'>About Us Overview</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-us/company-history'>Company History</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-us/what-we-do-differently'>What We Do Differently</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-us/write-for-us'>Write for Us?</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-us/what-our-customers-say-about-us'>What Our Customers Say About Us</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/customer-service/contact-us'>Contact Us</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/about-us/books-for-college-instructors'>Books for College Instructors</a></div></div></li></ul></div></ul>
+
+
+                <ul id="accordion_menu_713" class="accordion-menu" style="margin:0px;">
+					<li class="first">
+                        <div class="item-wrapper">
+                            <div class="menu-link"><a href="/account">My Account</a></div>
+                        </div>
+                    </li>
+                    <li class="last">
+                        <div class="item-wrapper">
+                            <div class="menu-link"><a href="http://www.murachforinstructors.com">Murach for Instructors Website</a></div>
+                        </div>
+                    </li>
+                </ul>
+		    </div>
+		    		    
+		                <div id="gkTopMenu">
+                
+
+<div class="customcustomer"  >
+
+	<p>Customer Service 1-800-221-5528</p>	
+</div>
+
+<ul class="menu">
+<li class="item-746"><a href="/customer-service/contact-us" >Contact Us</a></li></ul>
+
+            
+				                <form action="/" method="post">
+	<div class="search">
+		<input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="196" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" /><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();"/>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="888" />
+	</div>
+</form>
+
+                            </div>
+            		    
+		    		    <div id="gkMainMenu" class="gkMenuClassic">
+		    	<nav id="gkExtraMenu" class="gkMenu">
+<ul class="gkmenu level0"><li  class="first haschild"><a href="/shop-books/all"  class=" first haschild" id="menu776" title="Shop Books" ><span>Shop Books</span></a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/shop-books/all"  class=" first" id="menu833" title="View All" ><span>View All</span></a></li><li ><a href="/shop-books/web-design-books"  id="menu824" title="Web Design Books" ><span>Web Design Books</span></a></li><li ><a href="/shop-books/web-development-books"  id="menu825" title="Web Development Books" ><span>Web Development Books</span></a></li><li ><a href="/shop-books/mobile-development-books"  id="menu826" title="Mobile Development Books" ><span>Mobile Development Books</span></a></li><li ><a href="/shop-books/database-programming-books"  id="menu827" title="Database Programming Books" ><span>Database Programming Books</span></a></li><li ><a href="/shop-books/java-programming-books"  id="menu828" title="Java Programming Books" ><span>Java Programming Books</span></a></li><li ><a href="/shop-books/c-programming-books"  id="menu829" title="C# Programming Books" ><span>C# Programming Books</span></a></li><li ><a href="/shop-books/visual-basic-programming-books"  id="menu830" title="Visual Basic Programming Books" ><span>Visual Basic Programming Books</span></a></li><li ><a href="/shop-books/mainframe-programming-books"  id="menu831" title="Mainframe Programming Books" ><span>Mainframe Programming Books</span></a></li><li  class="last"><a href="/shop-books/previous-editions"  class=" last" id="menu832" title="Previous Editions" ><span>Previous Editions</span></a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="/about-our-ebooks/ebooks-overview"  class=" haschild" id="menu787" title="About Our eBooks" ><span>About Our eBooks</span></a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/about-our-ebooks/ebooks-overview"  class=" first" id="menu834" title="eBooks Overview" ><span>eBooks Overview</span></a></li><li ><a href="/about-our-ebooks/k2-information/how-to-install-and-activate-a-locklizard-viewer"  id="menu835" title="How to install and activate a LockLizard Viewer" ><span>How to install and activate a LockLizard Viewer</span></a></li><li ><a href="/about-our-ebooks/how-to-use-the-locklizard-viewers"  id="menu884" title="How to use the LockLizard Viewers" ><span>How to use the LockLizard Viewers</span></a></li><li  class="last"><a href="/about-our-ebooks/troubleshooting-and-getting-help"  class=" last" id="menu885" title="Troubleshooting and getting help" ><span>Troubleshooting and getting help</span></a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="/customer-service/customer-service-overview"  class=" haschild" id="menu796" title="Customer Service" ><span>Customer Service</span></a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/customer-service/customer-service-overview"  class=" first" id="menu836" title="Customer Service Overview" ><span>Customer Service Overview</span></a></li><li ><a href="/customer-service/return-policy-for-print-books-and-ebooks"  id="menu837" title="Return Policy for Print Books and eBooks" ><span>Return Policy for Print Books and eBooks</span></a></li><li ><a href="/customer-service/join-our-email-list"  id="menu838" title="Join Our Email List" ><span>Join Our Email List</span></a></li><li ><a href="/customer-service/our-international-distributors"  id="menu839" title="Our International Distributors" ><span>Our International Distributors</span></a></li><li ><a href="/customer-service/how-to-place-an-international-order"  id="menu840" title="How to Place an International Order" ><span>How to Place an International Order</span></a></li><li ><a href="/customer-service/meet-our-customer-service-staff"  id="menu841" title="Meet Our Customer Service Staff" ><span>Meet Our Customer Service Staff</span></a></li><li  class="last"><a href="/customer-service/contact-us"  class=" last" id="menu842" title="Contact Us" ><span>Contact Us</span></a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="/courseware-for-trainers/overview"  class=" haschild" id="menu809" title="Courseware for Trainers" ><span>Courseware for Trainers</span></a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/courseware-for-trainers/overview"  class=" first" id="menu843" title="Courseware for Trainers Overview" ><span>Courseware for Trainers Overview</span></a></li><li ><a href="/courseware-for-trainers/3-ways-to-use-our-books-for-training"  id="menu862" title="3 Ways to Use Our Books for Training " ><span>3 Ways to Use Our Books for Training </span></a></li><li ><a href="/courseware-for-trainers/what-our-courseware-includes"  id="menu844" title="What Our Courseware Includes" ><span>What Our Courseware Includes</span></a></li><li ><a href="/courseware-for-trainers/how-to-prepare-for-a-course"  id="menu845" title="How to Prepare for a Course" ><span>How to Prepare for a Course</span></a></li><li ><a href="/courseware-for-trainers/how-to-order-our-books-and-courseware"  id="menu846" title="How to Order Our Books and Courseware" ><span>How to Order Our Books and Courseware</span></a></li><li  class="last"><a href="/courseware-for-trainers/what-managers-and-trainers-say-about-us"  class=" last" id="menu847" title="What Managers and Trainers Say About Us" ><span>What Managers and Trainers Say About Us</span></a></li></ul></div>
+</div>
+</div></li><li  class="last haschild"><a href="/about-us/about-us-overview"  class=" last haschild" id="menu797" title="About Us" ><span>About Us</span></a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/about-us/about-us-overview"  class=" first" id="menu848" title="About Us Overview" ><span>About Us Overview</span></a></li><li ><a href="/about-us/company-history"  id="menu849" title="Company History" ><span>Company History</span></a></li><li ><a href="/about-us/what-we-do-differently"  id="menu850" title="What We Do Differently" ><span>What We Do Differently</span></a></li><li ><a href="/about-us/write-for-us"  id="menu851" title="Write for Us?" ><span>Write for Us?</span></a></li><li ><a href="/about-us/what-our-customers-say-about-us"  id="menu854" title="What Our Customers Say About Us" ><span>What Our Customers Say About Us</span></a></li><li ><a href="/customer-service/contact-us"  id="menu855" title="Contact Us" ><span>Contact Us</span></a></li><li  class="last"><a href="/about-us/books-for-college-instructors"  class=" last" id="menu856" title="Books for College Instructors" ><span>Books for College Instructors</span></a></li></ul></div>
+</div>
+</div></li></ul>
+</nav>   
+		    </div>
+		                
+            </div>
+    	</div>
+    	
+		<div id="gkPageContent">
+	    		    	<div id="gkHeaderMod" class="">
+	    		<div class="box guarantee-container"><div class="content">
+
+<div class="customguarantee-container"  >
+
+	<div class="box">
+<h3>Our Ironclad</h3>
+<h4>Guarantee</h4>
+<p>You must be satisfied. Try our <br />books for 60 days. They must <br />be the best you've ever used <br />or send them back for a <br />prompt refund. <br /><em>No questions asked.</em></p>
+</div>	
+</div>
+</div></div><div class="box "><div class="content">
+
+<!-- JoomlaWorks "Frontpage Slideshow" (v3.2.0) starts here -->
+
+<div id="fpssContainer669" class="fpss-container fpss-template-simple textEffectSlideUp">
+	<div class="slides-wrapper">
+		<div class="slide-loading"></div>
+		<div class="slides">
+        	<img src="/media/com_fpss/src/16_c9b002fe1bb0320831a8ae78670fdb6f_s.jpg?t=1470083914" />
+						<div class="slide">
+				<a href="javascript:void(0)" class="slide-link">
+					<span style="background:url(/media/com_fpss/src/16_c9b002fe1bb0320831a8ae78670fdb6f_s.jpg?t=1470083914) no-repeat;">
+						<img src="/media/com_fpss/src/16_c9b002fe1bb0320831a8ae78670fdb6f_s.jpg?t=1470083914" alt="0 - ASP.NET 4.6 w/ C# 2015" />
+					</span>
+				</a>
+				                					<div class="box guarantee-container">
+					<div class="content">
+					<div class="customguarantee-container">
+					<div class="box">
+					
+<h3>Our Ironclad</h3>
+<h4>Guarantee</h4>
+<p>You must be satisfied. Try our <br />books for 60 days. They must <br />be the best you've ever used <br />or send them back for a <br />prompt refund. <br /><em>No questions asked.</em>
+</p>
+					</div>
+					</div>
+					</div>
+					</div>
+                				<div class="slidetext">
+                	<div class="container">
+                    
+										
+						
+					
+					<div class="text-container">
+										<h3>NEW edition of our ASP.NET book</h3>
+<p>Since 2006, this book has been teaching C# developers how to build web applications for business using ASP.NET Web Forms. New in this 6th Edition is coverage of Bootstrap for responsive websites, model binding with the Entity Framework for binding data directly to a data control, ASP.NET Identity for authentication, and more!</p>
+<p><a href="https://www.murach.com/shop/murach-s-asp-net-4-6-web-programming-with-c-2015-detail">Learn More</a>
+</p>
+										</div>
+                    
+					                    
+                    </div>
+				</div>
+							</div>
+						<div class="slide">
+				<a href="javascript:void(0)" class="slide-link">
+					<span style="background:url(/media/com_fpss/src/15_fc1da7257992fc36032e11db3df7a664_s.jpg?t=1469641462) no-repeat;">
+						<img src="/media/com_fpss/src/15_fc1da7257992fc36032e11db3df7a664_s.jpg?t=1469641462" alt="1-SQL Server 2016" />
+					</span>
+				</a>
+				                					<div class="box guarantee-container">
+					<div class="content">
+					<div class="customguarantee-container">
+					<div class="box">
+					
+<h3>Our Ironclad</h3>
+<h4>Guarantee</h4>
+<p>You must be satisfied. Try our <br />books for 60 days. They must <br />be the best you've ever used <br />or send them back for a <br />prompt refund. <br /><em>No questions asked.</em>
+</p>
+					</div>
+					</div>
+					</div>
+					</div>
+                				<div class="slidetext">
+                	<div class="container">
+                    
+										
+						
+					
+					<div class="text-container">
+										<h4><em>New 2016 edition...</em>
+</h4>
+<h3>Boost your SQL and SQL Server skills</h3>
+<p>When it comes to querying databases, are you relying on just barely enough SQL knowledge to squeak by? If so, let this new edition of our SQL Server book show you all that you’re missing! It delivers the SQL skills you need to be a more effective, efficient, and confident developer.</p>
+<p><a href="https://www.murach.com/shop/murach-s-sql-server-2016-for-developers-detail">Learn More</a>
+</p>
+										</div>
+                    
+					                    
+                    </div>
+				</div>
+							</div>
+						<div class="slide">
+				<a href="javascript:void(0)" class="slide-link">
+					<span style="background:url(/media/com_fpss/src/6_ada9a09acea936d776a6f55c82778c43_s.jpg?t=1430161642) no-repeat;">
+						<img src="/media/com_fpss/src/6_ada9a09acea936d776a6f55c82778c43_s.jpg?t=1430161642" alt="2 - Courseware for trainers and instructors since 1974" />
+					</span>
+				</a>
+				                				<div class="slidetext">
+                	<div class="container">
+                    
+										
+						
+					
+					<div class="text-container nobox">
+										<h3>Courseware for trainers and instructors since 1974</h3>
+<p>All of our books are currently used for both corporate training and college courses...just as they have been since 1974. To make that easy for trainers and instructors, we provide complete courseware. That includes behavioral objectives, PowerPoint slides, test banks, extra exercises and solutions, projects and solutions, and more.</p>
+<p class="show"><a href="https://www.murach.com/courseware-for-trainers/overview">What we offer trainers</a><a style="margin-left: 30px;" href="http://www.murachforinstructors.com">Visit our website for instructors</a></p>										</div>
+                    
+					                    
+                    </div>
+				</div>
+							</div>
+						<div class="slide">
+				<a href="javascript:void(0)" class="slide-link">
+					<span style="background:url(/media/com_fpss/src/12_3899dfe821816fbcb3db3e3b23f81585_s.jpg?t=1469641333) no-repeat;">
+						<img src="/media/com_fpss/src/12_3899dfe821816fbcb3db3e3b23f81585_s.jpg?t=1469641333" alt="3-Two-JavaScriptBooks" />
+					</span>
+				</a>
+				                				<div class="slidetext">
+                	<div class="container">
+                    
+										
+						
+					
+					<div class="text-container nobox">
+										<h3>Do you need to learn JavaScript yet?</h3>
+<p>JavaScript is used in virtually every commercial website today, so every professional web developer needs to master it. And we’ve just revised both of our JavaScript-related books, to make mastery as easy and quick as possible for you. Start with either the JavaScript or jQuery book, then use the other book to build out your full set of skills.</p>
+<p class="show"><a href="https://www.murach.com/shop/murach-s-jquery-detail">Murach's jQuery</a><a href="https://www.murach.com/shop/murach-s-javascript-2nd-edition-detail" style="margin-left: 30px;">Murach's JavaScript</a></p>										</div>
+                    
+					                    
+                    </div>
+				</div>
+							</div>
+						<div class="slide">
+				<a href="javascript:void(0)" class="slide-link">
+					<span style="background:url(/media/com_fpss/src/8_184b7cb84d7b456c96a0bdfbbeaa5f14_s.jpg?t=1469641544) no-repeat;">
+						<img src="/media/com_fpss/src/8_184b7cb84d7b456c96a0bdfbbeaa5f14_s.jpg?t=1469641544" alt="4 - HTML5 and CSS3" />
+					</span>
+				</a>
+				                					<div class="box guarantee-container">
+					<div class="content">
+					<div class="customguarantee-container">
+					<div class="box">
+					
+<h3>Our Ironclad</h3>
+<h4>Guarantee</h4>
+<p>You must be satisfied. Try our <br />books for 60 days. They must <br />be the best you've ever used <br />or send them back for a <br />prompt refund. <br /><em>No questions asked.</em>
+</p>
+					</div>
+					</div>
+					</div>
+					</div>
+                				<div class="slidetext">
+                	<div class="container">
+                    
+										
+						
+					
+					<div class="text-container">
+										<h4>Best Seller...<span>get now for $43.60</span>
+</h4>
+<h3>Murach’s HTML5 and CSS3 (3rd Edition)</h3>
+<p>This 3rd edition of our unique HTML5 and CSS3 book adds professional coverage of Responsive Web Design - a must for web developers - at the same time that it updates and improves all the content in the previous edition. Don't miss it.</p>
+<p class="show"><a href="https://www.murach.com/shop/murachs-html5-and-css3-3rd-edition-detail">Learn More</a>
+</p>
+										</div>
+                    
+					                    
+                    </div>
+				</div>
+							</div>
+					</div>
+		<div class="fpssTimer"></div>
+	</div>
+	<div class="navigation-wrapper">
+    	<div class="container">
+            <ul class="navigation">
+                <li class="navigation-previous"><a href="#" title="Previous">&laquo;</a></li>
+                <li class="navigation-next"><a href="#" title="Next">&raquo;</a></li>
+                <li class="navigation-control fpssPause"><a href="#" title="Play/Pause Slideshow">Pause</a></li>
+            </ul>
+        </div>
+	</div>
+    
+    <div class="navigation-wrapper2">
+    	<div class="container">
+            <ul class="navigation">
+                                <li class="navigation-button">
+                    <a href="javascript:void(0)" title="0 - ASP.NET 4.6 w/ C# 2015">01</a>
+                </li>
+                                <li class="navigation-button">
+                    <a href="javascript:void(0)" title="1-SQL Server 2016">02</a>
+                </li>
+                                <li class="navigation-button">
+                    <a href="javascript:void(0)" title="2 - Courseware for trainers and instructors since 1974">03</a>
+                </li>
+                                <li class="navigation-button">
+                    <a href="javascript:void(0)" title="3-Two-JavaScriptBooks">04</a>
+                </li>
+                                <li class="navigation-button">
+                    <a href="javascript:void(0)" title="4 - HTML5 and CSS3">05</a>
+                </li>
+                            </ul>
+        </div>
+	</div>
+    
+</div><div style="display:none;">Frontpage Slideshow | Copyright &copy; 2006-2011 JoomlaWorks Ltd.</div>
+<!-- JoomlaWorks "Frontpage Slideshow" (v3.2.0) ends here -->
+
+</div></div>
+	    	</div>
+	    	            
+                        
+            	    	
+                                
+                                            
+	    	<section id="gkContent" class="gkPage">					
+				<div id="gkContentWrap">
+                
+                						
+										<div id="gkTop1" class="gkCols3">
+						<div>
+							<div class="box best-seller gkmod-1 nomargin"><h3 class="header">Our Best Sellers</h3><div class="content">
+<script type="text/javascript" src="/images/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript">
+/*
+function mycarousel_initCallback(carousel)
+{
+    // Disable autoscrolling if the user clicks the prev or next button.
+    carousel.buttonNext.bind('click', function() {
+        carousel.startAuto(0);
+    });
+
+    carousel.buttonPrev.bind('click', function() {
+        carousel.startAuto(0);
+    });
+
+    // Pause autoscrolling if the user moves with the cursor over the clip.
+    carousel.clip.hover(function() {
+        carousel.stopAuto();
+    }, function() {
+        carousel.startAuto();
+    });
+};
+
+jQuery(document).ready(function() {
+
+    jQuery('#mycarousel').jcarousel({
+        auto: 0,
+        wrap: 'last',
+        scroll: 3,
+        initCallback: mycarousel_initCallback
+    });
+});
+*/
+
+(function($) {
+    $(function() {
+        var jcarousel = $('.jcarousel');
+        jcarousel
+            .on('jcarousel:reload jcarousel:create', function () {
+                var width = jcarousel.innerWidth();
+
+                if (width >= 600) {
+                    width = width / 3;
+                } else if (width >= 350) {
+                    width = width / 2;
+                }
+				width = width+1;
+                jcarousel.jcarousel('items').css('width', width + 'px');
+            })
+            .jcarousel({
+                wrap: 'circular'
+            });
+
+        $('.jcarousel-control-prev')
+            .jcarouselControl({
+                target: '-=1'
+            });
+
+        $('.jcarousel-control-next')
+            .jcarouselControl({
+                target: '+=1'
+            });
+
+        $('.jcarousel-pagination')
+            .on('jcarouselpagination:active', 'a', function() {
+                $(this).addClass('active');
+            })
+            .on('jcarouselpagination:inactive', 'a', function() {
+                $(this).removeClass('active');
+            })
+            .on('click', function(e) {
+                e.preventDefault();
+            })
+            .jcarouselPagination({
+                perPage: 1,
+                item: function(page) {
+                    return '<a href="#' + page + '">' + page + '</a>';
+                }
+            });
+    });
+})(jQuery);
+
+
+</script>
+
+
+
+
+
+
+<div class="vmgroupbest-seller">
+
+			<div class="jcarousel-wrapper">
+        <div class="padding">
+        <div class="vmproductbest-seller productdetails jcarousel">
+        <ul id="mycarousel" class="jcarousel-skin-tango">
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murach-s-java-programming-detail" title="Murach’s Java Programming"><img src="/images/stories/virtuemart/product/resized/java_programming_175x220.jpg" alt="java_programming" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murach-s-java-programming-detail">Murach’s Java Programming</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity184" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input name="addtocart" class="addtocart-button-disabled" value="Choose a product variant first" title="Choose a product variant first" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach’s Java Programming"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="184"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="November 2011"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murach-s-php-and-mysql-2nd-edition-detail" title="Murach’s PHP and MySQL (2nd Edition)"><img src="/images/stories/virtuemart/product/resized/murach's-php-and-mysql(2nd-ed)_175x220.jpg" alt="murach's-php-and-mysql(2nd-ed)" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murach-s-php-and-mysql-2nd-edition-detail">Murach’s PHP and MySQL (2nd Edition)</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity300" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input name="addtocart" class="addtocart-button-disabled" value="Choose a product variant first" title="Choose a product variant first" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach’s PHP and MySQL (2nd Edition)"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="300"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="December 2014"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murach-s-mysql-2nd-edition-detail" title="Murach’s MySQL (2nd Edition)"><img src="/images/stories/virtuemart/product/resized/murach's-mysql(2nd-ed)_175x220.jpg" alt="murach's-mysql(2nd-ed)" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murach-s-mysql-2nd-edition-detail">Murach’s MySQL (2nd Edition)</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity307" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input type="submit" name="addtocart" class="addtocart-button" value="Add to Cart" title="Add to Cart" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach’s MySQL (2nd Edition)"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="307"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="February 2015"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murach-s-android-programming-2nd-edition-detail" title="Murach’s Android Programming (2nd Edition)"><img src="/images/stories/virtuemart/product/resized/murach's-android-programming-(2nd-ed)_175x220.jpg" alt="murach's-android-programming-(2nd-ed)" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murach-s-android-programming-2nd-edition-detail">Murach’s Android Programming (2nd Edition)</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity331" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input name="addtocart" class="addtocart-button-disabled" value="Choose a product variant first" title="Choose a product variant first" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach’s Android Programming (2nd Edition)"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="331"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="December 2015"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murach-s-sql-server-2016-for-developers-detail" title="Murach’s SQL Server 2016 for Developers"><img src="/images/stories/virtuemart/product/resized/murach's-sql-server-2016-for-developers_175x220.jpg" alt="murach's-sql-server-2016-for-developers" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murach-s-sql-server-2016-for-developers-detail">Murach’s SQL Server 2016 for Developers</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity339" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input name="addtocart" class="addtocart-button-disabled" value="Choose a product variant first" title="Choose a product variant first" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach’s SQL Server 2016 for Developers"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="339"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="June 2016"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murachs-html5-and-css3-3rd-edition-detail" title="Murach's HTML5 and CSS3 (3rd Edition)"><img src="/images/stories/virtuemart/product/resized/murach's-html5-and-css3-(3rd-ed)_175x220.jpg" alt="murach's-html5-and-css3-(3rd-ed)" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murachs-html5-and-css3-3rd-edition-detail">Murach's HTML5 and CSS3 (3rd Edition)</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity311" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input type="submit" name="addtocart" class="addtocart-button" value="Add to Cart" title="Add to Cart" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach's HTML5 and CSS3 (3rd Edition)"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="311"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="April 2015"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murach-s-java-servlets-and-jsp-3rd-edition-detail" title="Murach’s Java Servlets and JSP (3rd Edition)"><img src="/images/stories/virtuemart/product/resized/murach's-java-servlets-and-jsp(3rd-ed)_175x220.jpg" alt="murach's-java-servlets-and-jsp(3rd-ed)" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murach-s-java-servlets-and-jsp-3rd-edition-detail">Murach’s Java Servlets and JSP (3rd Edition)</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity152" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input type="submit" name="addtocart" class="addtocart-button" value="Add to Cart" title="Add to Cart" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach’s Java Servlets and JSP (3rd Edition)"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="152"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="June 2014"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murach-s-javascript-2nd-edition-detail" title="Murach’s JavaScript (2nd Edition)"><img src="/images/stories/virtuemart/product/resized/murach's-javascript-(2nd-ed)_175x220.jpg" alt="murach's-javascript-(2nd-ed)" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murach-s-javascript-2nd-edition-detail">Murach’s JavaScript (2nd Edition)</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity327" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input name="addtocart" class="addtocart-button-disabled" value="Choose a product variant first" title="Choose a product variant first" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach’s JavaScript (2nd Edition)"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="327"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="September 2015"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			            <li class="span3 box-one" >
+				<div class="spacer">
+					<a href="/shop/murach-s-c-2015-detail" title="Murach’s C# 2015"><img src="/images/stories/virtuemart/product/resized/murach's-c_sharp-2015_175x220.jpg" alt="murach's-c_sharp-2015" class="featuredProductImage" /></a><div class="clear"></div>					<a href="/shop/murach-s-c-2015-detail">Murach’s C# 2015</a>        <div class="clear"></div>			<div class="addtocart-area">
+
+				<form method="post" class="product" action="index.php">
+					
+					<div class="addtocart-bar">
+
+												<!-- <label for="quantity335" class="quantity_box">Quantity: </label> -->
+			<span class="quantity-box">
+			<input type="text" class="quantity-input" name="quantity[]" value="1"/>
+			</span>
+			<span class="quantity-controls">
+					<input type="button" class="quantity-controls quantity-plus"  />
+					<input type="button" class="quantity-controls quantity-minus" />
+
+			</span>
+
+
+																		<span class="addtocart-button">
+							<input type="submit" name="addtocart" class="addtocart-button" value="Add to Cart" title="Add to Cart" />			</span>
+
+						<div class="clear"></div>
+					</div>
+
+					<input type="hidden" class="pname" value="Murach’s C# 2015"/>
+					<input type="hidden" name="option" value="com_virtuemart"/>
+					<input type="hidden" name="view" value="cart"/>
+					<noscript><input type="hidden" name="task" value="add"/></noscript>
+					<input type="hidden" name="virtuemart_product_id[]" value="335"/>
+					<input type="hidden" name="virtuemart_category_id[]" value="January 2016"/>
+				</form>
+				<div class="clear"></div>
+			</div>
+							</div>
+            <div class="clr"></div>
+            </li>
+			        
+        </ul>
+		</div>
+        </div>
+        <a class="jcarousel-control-prev" href="#">Prev</a>
+    	<a class="jcarousel-control-next" href="#">Next</a>
+        <div class="jcarousel-pagination"></div>
+        </div>
+        <div class="clr"></div>
+
+		</div></div></div>
+						</div>
+					</div>
+										
+										<div id="gkTop2" class="gkCols3">
+						<div>
+							<div class="box quote gkmod-1 nomargin"><div class="content">
+
+<div class="customquote"  >
+
+	<div class="quote-content">
+<h3>What People Say About Our Books</h3>
+<p>“I’ve read other programming books, but none—and I really mean none—are as useful as yours. Your company has made my life a little easier and a lot wealthier.”</p>
+<h4>Ralph C., Programmer, New York&nbsp; |&nbsp; <a href="https://www.murach.com/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=319&amp;Itemid=854">Read More Testimonials ›</a></h4>
+</div>	
+</div>
+</div></div>
+						</div>
+					</div>
+										
+						
+					
+					<div id="gkMainbody">
+													<article id="k2Container" class="itemView">                                <header>
+                                                  </header>
+                     <div class="itemBody">                                                              <div class="itemFullText"> <div class="divider">
+<h3>What makes Murach books the best</h3>
+<p>During the last 40 years, many customers have asked us how a small publisher in Fresno can make the best programming books. The short answer is that no other publisher works the way we do.</p>
+<p>Instead of using freelance writers who get no training, we use a small staff of programmers who are trained in our proven writing and teaching methods. </p>
+<p class="hide">Instead of publishing dozens of new books each year, we write and publish just a few. And instead of rushing books to market, we refuse to let schedule or budget interfere with quality.</p>
+<p class="hide">That’s why our customers often tell us that our books are the ones that they look for first whenever they need to learn a new programming subject. If you try one of our books, we’re confident that you’ll become a Murach fan too. And if you buy the book directly from us, you’ll get the same ironclad guarantee that we’ve offered since 1974!</p>
+<div class="more"><a>MORE</a></div>
+</div>
+<div class="divider">
+<h3>Our “paired pages” let you read less and learn faster</h3>
+<p>About 15 years ago, we realized that there was something patently wrong with all technical books, including ours. The problem was that you had to dig through dozens of pages of text to get the information that you needed. And if you wanted to refer back to that information, you had to dig it out again. That’s when we developed a new presentation method that our customers named "paired pages".</p>
+<p class="hide"><img style="margin: 10px 0px 10px 10px; float: right;" src="/images/paired-pages.jpg" alt="" />With our paired-pages method, the right page is the reference page that presents the examples, coding, and critical skills that you need to master, and the left page is the training page that explains what’s on the right page. This means that you are able to read less and learn faster. This also means that after you finish reading our books, they become the best reference books you’ve ever used because you usually only have to refer to the right page in a pair.</p>
+<p class="hide">Today, we use our paired-pages presentation method in all of our books, and we’re the only publisher that does. But, honestly, that’s only one of the reasons why you’ll learn faster and better with our books.</p>
+<p class="hide"><em>"For me, the great thing about this book is the way it is laid out. Information is on the left page and the visual of what is being discussed is on the right page - genius!"</em> <br /> Posted at an online bookseller (verified purchase)</p>
+<div class="more"><a>MORE</a></div>
+</div> </div>
+                                                                                                                                                                                                                                                   </div>
+                    </article>
+
+<!-- JoomlaWorks "K2" (v2.6.7) | Learn more about K2 at http://getk2.org -->
+
+
+											</div>
+
+					
+										<div id="gkMainbodyBottom">
+						<div class="box accordion"><h3 class="header">5 more reasons why our customers love our books</h3><div class="content">
+<div id="accordion-1-57d01a4e1afa5" class="wk-accordion wk-accordion-default clearfix"  data-widgetkit="accordion" data-options='{"style":"default","collapseall":1,"matchheight":0,"index":100,"duration":500,"width":"auto","order":"default"}'>
+			<h3 class="toggler">1. You can do real work after reading just a few chapters</h3>
+		<div><div class="content wk-content clearfix"><p>In all of our books, the first few chapters present a complete subset of the skills you’ll use on the job. As a result, you can start doing real work after just a few chapters. Then, you can add to those skills by reading the rest of the book.<br /><br /><em>"My daughter gave me Murach’s PHP and MySQL for Christmas, and today (December 27th), I wrote my first PHP code. I have a form with over 200 controls and am having a blast with POST arrays! Wow!"</em>
+</p>
+<p>—Jim Burns, Web Developer, Jacksonville, Florida</p></div></div>
+			<h3 class="toggler">2. You can learn new skills whenever you need them</h3>
+		<div><div class="content wk-content clearfix"><p>After the first section or two of each book, the other sections and chapters are designed as independent modules. We call this "modular organization." What this means is that once you master the subset that’s presented in the first section or two, you can continue with whichever section or chapter you’re interested in.<br /><br />Call it "just-in-time training." Call it "learning when you need it most." It works, and no other publisher even tries to do this with their books.</p>
+<p><br /><em>“Your books have always been my go-to source when I need to absorb new technology because they're perfectly suited to my no-time-to-waste schedule - they're modular, clean, and hit all the major points without any fluff.”</em><br />—Jeff Madrak, Independent Software Developer</p></div></div>
+			<h3 class="toggler">3. Our complete, real-world applications lead to mastery </h3>
+		<div><div class="content wk-content clearfix"><p>From the first book we published in 1974 to the present, all of our books teach by presenting complete, real-world applications, including the design, code, and all related components.<br /><br />As we see it, studying applications like these is the best way to learn how all of the parts of an application work together, so this is an essential part of the learning process. And yet it is the missing ingredient in most competing books.</p>
+<p><br /><em>“I have seen too many programming books with esoteric examples that you could never use in a real application. The examples in your book have meat, meaning you can port the concepts to a current application you are working on.”</em></p>
+<p>—Charles Owen, Programmer, Maryland</p></div></div>
+			<h3 class="toggler">4. You get more practice in less time with our exercises </h3>
+		<div><div class="content wk-content clearfix"><p>The exercises in our books let you get valuable, hands-on experience without wasting any time. That’s because we provide the starting code for each exercise, so you don’t have to enter the routine code that you already know.<br /><br />
+Beyond that, our exercises never present new skills or information. As we see it, this is the only sensible approach to text and exercise design.<br /><br />
+In contrast, the exercises in competing books commonly present new skills as they step you through the development of an application. If you’ve tried to learn from one of these books, though, you know that: (1) you don’t learn the skills if you don’t do the exercises, (2) there’s no easy way to get the information that’s embedded in the exercises, and (3) this approach is painfully slow and deadly dull.<br /><br /><em>“Another thing I like is the exercises at the end of each chapter. They reinforce the main points and force you to get your hands dirty.”</em>
+</p>
+<p>—Hien Luu, SD Forum/Java SIG</p></div></div>
+			<h3 class="toggler">5. Our books become your favorite on-the-job references </h3>
+		<div><div class="content wk-content clearfix"><p>After you finish reading our books, they become the best reference books you’ve ever used for at least two reasons. First, the modular structure of our books makes it easy to find what you’re looking for and it keeps all of the information that makes up a skill close together.<br /><br />Second, with our “paired pages” presentation method, you don’t have to dig out information from pages of text. Instead, you usually only have to refer to the right page in a pair to get all the rules, guidelines, and coding examples that you need.</p>
+<p><br /><em>“As a contractor, I have to frequently change jobs and also job requirements. Your manuals allow me to keep current as well as being great references for those things I need to refresh on.”</em><br />—Clifford Whisnant, Consultant, South Carolina</p></div></div>
+	</div></div></div>
+					</div>
+									</div>
+				
+								<aside id="gkSidebar">
+					
+					<div>
+						<div class="box shop"><h3 class="header">Shop books by category</h3><div class="content">
+<ul class="VMmenu" id="VMmenu14_10609" >
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/web-design-books" >Web design books</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/web-development-books" >Web development books</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/java-programming-books" >Java programming books</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/database-programming-books" >Database programming books</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/c-programming-books" >C# programming books</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/visual-basic-programming-books" >Visual Basic programming books</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/mobile-development-books" >Mobile development books</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/mainframe-programming-books" >Mainframe programming books</a>	</div>
+</li>
+
+<li class="VmClose">
+	<div>
+		<a href="/shop-books/previous-editions" >Previous editions</a>	</div>
+</li>
+</ul>
+</div></div><div class="box course"><h3 class="header">Courseware for corporate trainers and college instructors</h3><div class="content">
+
+<div class="customcourse"  >
+
+	<p>All of our books are used for both corporate training and college courses. To make that easy for trainers and instructors, we provide complete trainer and instructor materials for our books...just as we’ve done since 1974.</p>
+<div class="trainers">
+<p><a href="/courseware-for-trainers/overview">What we offer <br />Trainers <i class="icon-chevron-right" style="font-size:10px;">&nbsp;</i></a></p>
+</div>
+<div class="instructors">
+<p><a href="http://www.murachforinstructors.com">Visit our website <br />for instructors <i class="icon-chevron-right" style="font-size:10px;">&nbsp;</i></a></p>
+</div>	
+</div>
+</div></div>
+					</div>
+				</aside>
+					    	</section>
+    	</div>
+        
+        		    
+				<div id="gkBottom1">
+        <div class="gkPage">
+			<div class="gkCols6">
+				<div class="box  gkmod-1 nomargin"><div class="content">
+
+<div class="custom"  >
+
+	<div class="guarantee">
+<h3>Our Ironclad Guarantee</h3>
+</div>
+<div class="satisfied">
+<p>You must be satisfied. Try our books for 60 days. They must be the best you've ever used or send them back for a prompt refund. <span> No questions asked!</span></p>
+</div>
+<div class="social"><a href="https://www.facebook.com/murachbooks" target="_blank"><img src="/templates/murach/images/social-facebook.png" alt="Murach Facebook" /></a> <a href="https://twitter.com/MurachBooks" target="_blank"><img src="/templates/murach/images/social-twitter.png" alt="Murach Twitter" /></a> <a href="https://www.linkedin.com/company/mike-murach-&amp;-associates" target="_blank"><img src="/images/linkedin.png" alt="Murach LinkedIn" /></a></div>	
+</div>
+</div></div>
+			</div>
+		</div>
+        </div>
+				    
+	    	    <div id="gkBottom2"> 
+        <div class="gkPage">
+	    	<div class="gkCols6 gkNoMargin">
+	    		<div class="box contact gkmod-3"><div class="content">
+
+<div class="customcontact"  >
+
+	<div class="contact">
+<h3>Contact Murach Books</h3>
+<p>For orders and customer service:</p>
+<p>1-800-221-5528</p>
+<p>Weekdays, 8 to 4 Pacific Time</p>
+<div class="link">
+<p><span><a href="mailto:murachbooks@murach.com">murachbooks@murach.com</a></span></p>
+</div>
+</div>
+<div class="email">
+<h3>eMail Sign Up</h3>
+<p>Sign up today to receive special discounts, product alerts, and news from Murach Books.</p>
+<p><a href="/customer-service/join-our-email-list">Sign Up</a></p>
+</div>
+<div class="college-instructors">
+<h3>College Instructors</h3>
+<p>If you're a college instructor who would like to consider a book for a course, please visit our <a href="http://www.murachforinstructors.com">website for instructors</a> to learn how to get a complimentary review copy and the full set of instructional materials.</p>
+</div>	
+</div>
+</div></div><div class="box shop gkmod-3"><h3 class="header">Shop Books</h3><div class="content">
+
+<div class="customshop"  >
+
+	<ul>
+<li><a href="https://www.murach.com/shop-books/web-design-books">Web design books</a></li>
+<li><a href="https://www.murach.com/shop-books/web-development-books">Web development books</a></li>
+<li><a href="https://www.murach.com/shop-books/mobile-development-books">Mobile development books</a></li>
+<li><a href="https://www.murach.com/shop-books/database-programming-books">Database programming books</a></li>
+<li><a href="https://www.murach.com/shop-books/java-programming-books">Java programming books</a></li>
+<li><a href="https://www.murach.com/shop-books/c-programming-books">C# programming books</a></li>
+<li><a href="https://www.murach.com/shop-books/visual-basic-programming-books">Visual Basic programming books</a></li>
+<li><a href="https://www.murach.com/shop-books/mainframe-programming-books">Mainframe programming books</a></li>
+<li><a href="https://www.murach.com/shop-books/previous-editions">Previous editions</a></li>
+</ul>	
+</div>
+</div></div><div class="box customer gkmod-3"><h3 class="header">Customer Support</h3><div class="content">
+
+<div class="customcustomer"  >
+
+	<ul>
+<li><a href="https://www.murach.com/customer-service/customer-service-overview">Customer service</a></li>
+<li><a href="https://www.murach.com/customer-service/return-policy-for-print-books-and-ebooks">Our ironclad guarantee</a></li>
+<li><a href="https://www.murach.com/customer-service/return-policy-for-print-books-and-ebooks">Return policy</a></li>
+<li><a href="https://www.murach.com/customer-service/how-to-place-an-international-order">International orders</a></li>
+<li><a href="https://www.murach.com/about-our-ebooks/k2-information/how-to-install-and-activate-a-locklizard-viewer">eBook instructions </a></li>
+<li><a href="https://www.murach.com/customer-service/contact-us">Contact us</a></li>
+</ul>	
+</div>
+</div></div>
+	    	</div>
+	    </div>
+        </div>
+	    	</div>    
+    
+    
+<footer id="gkFooter" class="gkPage">
+		<p id="gkCopyrights">&copy; Copyright 1998-<span class="hd-date">2016</span> Mike Murach & Associates, Inc. All rights reserved.<br />
+      <a href="http://www.netpilotweb.com" target="_blank">Website design by NetPilot Web Solutions</a>
+</p>
+	    
+
+		<div id="gkFooterNav">
+		
+<ul class="menu">
+<li class="item-763"><a href="/privacy-policy" >Privacy Policy</a></li><li class="item-764"><a href="/terms-of-use" >Terms of Use</a></li><li class="item-762"><a href="/site-map" >Site Map</a></li></ul>
+
+
+<div class="customtop"  >
+
+	<p><a href="#top">Back<br />to<br />Top</a></p>	
+</div>
+
+	</div>
+		
+
+	
+	</footer>   	
+   	   	   	<div id="gkPopupOverlay"></div>
+   	   		
+	
+</body>
+</html>
